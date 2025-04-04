@@ -17,10 +17,11 @@ A visually stunning and responsive clone of Apple's official website, built usin
 
 ## 🛠️ Built With
 
-- **HTML5** – semantic structure  
-- **CSS3** – custom styling + flex/grid layout  
+- **React** – for modern frontend 
+- **Tailwind CSS** – custom styling + flex/grid layout  
 - **JavaScript (ES6+)** – interactivity and logic  
 - **GSAP (GreenSock)** – smooth scroll and animations  
-- **ScrollTrigger** – advanced scroll-based animations  
-- **Vite (optional)** – for modern dev server setup
+- **ScrollTrigger** – advanced scroll-based animations 
+- **Three.js** – for 3D models 
+- **Vite** – for modern dev server setup
 
