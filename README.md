@@ -22,5 +22,5 @@ A visually stunning and responsive clone of Apple's official website, built usin
 - **JavaScript (ES6+)** – interactivity and logic  
 - **GSAP (GreenSock)** – smooth scroll and animations  
 - **Three.js** – for 3D models 
-- **Vite** – for modern dev server setup
+- **Vite** – framework 
 
